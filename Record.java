@@ -41,7 +41,7 @@ public class Record {
 	// setters
 	
 	public void setId() {
-		this.id = (int)(Math.random() * 901) + 100;
+		this.id = (int)(Math.random() * 9001) + 100;
 	}
 	
 	public void setRecordTitle(String recordTitle) {
